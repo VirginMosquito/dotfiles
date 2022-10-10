@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeremartinet@gmail.com
+	name = Jéeremy Martinet
